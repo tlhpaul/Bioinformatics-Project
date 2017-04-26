@@ -1,4 +1,4 @@
-#Most of codes are from CIS/GCB 535 Bioinformatics in-class assignemnt.
+//Most of codes are from CIS/GCB 535 Bioinformatics in-class assignemnt.
 
 library(GEOquery)
 library(oligo)
